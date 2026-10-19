@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Lara Cumkitten</title>
+  <rect width="64" height="64" fill="#0B0908"/>
+  <path d="M12 18 20 42l12-16 12 16 8-24" fill="none" stroke="#D9B872" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M15 49h34" stroke="#6E2E2E" stroke-width="5" stroke-linecap="square"/>
+</svg>
