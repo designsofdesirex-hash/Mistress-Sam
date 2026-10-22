@@ -1,13 +1,12 @@
-# Lara Cumkitten
+# Queen Sam
 
-Static editorial website for Lara Cumkitten's adult persona, sessions, content, and contact links.
+Static bilingual website for Queen Sam's adult persona, services, social links, and booking requests.
 
-The project is plain HTML, CSS, JavaScript, and local image assets. It has no build step, backend, database, or checkout integration.
-German is the default language; use the header button to switch to English.
+The project uses plain HTML, CSS, and JavaScript with local image assets. It has no build step, backend, database, booking transmission, persistence, or payment processing. French is the default language; use the header button to switch to English. The booking form generates and copies a request in the browser and can open the X compose page.
 
 ## Run locally
 
-From the project folder, start any static file server and open the site:
+From the project folder, start a static file server:
 
 ```powershell
 py -m http.server 4173
@@ -15,20 +14,16 @@ py -m http.server 4173
 
 Then visit [http://localhost:4173](http://localhost:4173).
 
-Opening `index.html` directly also works, but a local server is recommended for reliable asset and browser behavior.
-
 ## Project structure
 
 - `index.html` — page structure and copy
 - `styles.css` — responsive visual system and layout
-- `script.js` — slideshow rotation and small interactions
-- `assets/images/` — footer photography
-- `assets/slideshow/` — supplied Lara photography for the hero and lifestyle sections
+- `script.js` — language toggle, request generation, slideshow
+- `assets/images/` — footer photography extracted from the supplied video archive
+- `assets/slideshow/` — 17 hero and 13 editorial stills extracted from the supplied video archive
 - `DESIGN.md` — visual direction and design tokens
 - `PRODUCT.md` — product and content context
 
 ## Deployment
 
-This is ready for GitHub Pages from the repository root. There is no framework build command and no environment configuration required. The site uses Google Fonts at runtime and all image assets are served from the repository.
-
-The page contains adult-persona language and should be hosted and shared as an 18+ experience.
+The static files can be hosted from the repository root. The site contains adult persona language and is intended for an 18+ audience. Booking requests must be confirmed in X DMs; the website does not send them to Queen Sam.

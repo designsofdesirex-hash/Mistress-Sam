@@ -1,8 +1,8 @@
-# Lara Cumkitten Design System
+# Queen Sam Design System
 
 ## World
 
-The site is a private-members-club / nightlife-ledger extension of Lara's dominant public X persona. Preserve the source site's composition and art direction. The base is a dark espresso/charcoal field; bone and champagne carry the expensive feeling; rosewood is reserved for high-impact actions; gold is a hairline signal; milk blush appears only in editorial media treatment.
+The site is a private-members-club / nightlife-ledger extension of Queen Sam's dominant public X persona. Preserve the source site's composition and art direction. The base is a dark espresso/charcoal field; bone and champagne carry the expensive feeling; rosewood is reserved for high-impact actions; gold is a hairline signal; milk blush appears only in editorial media treatment.
 
 ## Surface Context
 
@@ -33,7 +33,7 @@ The site is a private-members-club / nightlife-ledger extension of Lara's domina
 - Full-width dark fields with generous vertical pacing; saturated color is concentrated into rosewood moments.
 - Hero split: dominant left-aligned thesis, rotated circular mark on the right.
 - Tribute links are rows, not cards: index, destination, provocation, arrow.
-- Editorial tiles use supplied Lara photography.
+- Editorial tiles use video-derived stills from the supplied Queen Sam archive.
 - Footer closes with the persona's own line and only the essential outbound destinations.
 
 ## Interaction
